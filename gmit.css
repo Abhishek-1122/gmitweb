@@ -1,0 +1,52 @@
+	h1{
+			color:firebrick;
+			line-height: 1.2;
+			width: 100%;
+		}
+		
+		h3{
+			color: whitesmoke;
+		}
+		hr{
+
+			background-color:darkblue ;
+			width: 75%;
+			border-color: cadetblue;
+			border-width: 3px;
+		}
+		table{
+			background-color:;
+			column-gap: 200px;
+			border: 2px;
+			border-width: 2px;
+		}
+		.cs:hover{
+			background-color: firebrick;
+		}
+		.is:hover{
+			background-color: cadetblue;
+		}
+		.t2:hover{
+			background-color: antiquewhite;
+
+		}
+		.banner{
+			border-style: outset ;
+			border-color: cadetblue;
+			border-width: 3px;
+		}
+
+		 .circular{
+	border-radius: 100%;
+	border-style: outset ;
+	text-align: center;
+	width: 75px;
+	height: 75px;
+	background-color: floralwhite;
+}
+		body{
+			 background: 
+url("gmitbg.png");
+                background-size: 1366px 788px ;
+			
+		}
